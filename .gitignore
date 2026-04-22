@@ -1,5 +1,8 @@
 CLAUDE.md
 .learning/
+.env
+.vscode/
+.idea/
 
 # Python-generated files
 __pycache__/
@@ -8,6 +11,8 @@ build/
 dist/
 wheels/
 *.egg-info
+.pytest_cache/
+
 
 # Virtual environments
-.venv
+.venv/
